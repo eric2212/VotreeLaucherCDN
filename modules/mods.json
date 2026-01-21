@@ -1,0 +1,44 @@
+{
+  "schema": 1,
+
+  "type": "fabric-mods",
+
+  "meta": {
+    "name": "Survival Modpack",
+    "mc": "1.20.6",
+    "loader": "fabric"
+  },
+
+  "settings": {
+    "baseUrl": "https://github.com/eric2212/VotreeLaucherCDN/mods",
+    "strict": true,
+    "verify": "sha1",
+    "deleteUnknown": true,
+    "parallelDownload": 4
+  },
+
+  "files": [
+    {
+      "id": "fabric-api",
+      "file": "fabric-api-0.97.0+1.20.6.jar",
+      "sha1": "b3d1e2f4a9d7...",
+      "size": 1892345,
+      "required": true
+    },
+
+    {
+      "id": "lithium",
+      "file": "lithium-fabric-mc1.20.6-0.13.0.jar",
+      "sha1": "8c1fa2c9e7...",
+      "required": true
+    },
+
+    {
+      "id": "dynamic-lights",
+      "file": "dynamiclights-1.20.6.jar",
+      "sha1": "aa31bc91...",
+      "required": false,
+      "default": false
+    }
+  ]
+}
