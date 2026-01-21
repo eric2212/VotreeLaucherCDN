@@ -1,0 +1,26 @@
+{
+  "id": "survival",
+  "name": "Survival Server",
+  "description": "Fabric 1.20.6 RPG Server",
+
+  "version": {
+    "minecraft": "1.20.6",
+    "loader": "fabric"
+  },
+
+  "versionRef": "versions/fabric-1.20.6.json",
+
+  "modules": [
+    {
+      "id": "mods",
+      "type": "modpack",
+      "ref": "modules/mods.json"
+    }
+  ],
+
+  "launch": {
+    "minRam": 4096,
+    "maxRam": 8192,
+    "java": 17
+  }
+}
