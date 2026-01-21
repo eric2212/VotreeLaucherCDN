@@ -1,0 +1,13 @@
+{
+  "minecraft": "1.20.6",
+
+  "fabric": {
+    "loaderVersion": "0.15.11",
+    "installer": "https://meta.fabricmc.net/v2/versions/loader"
+  },
+
+  "java": {
+    "required": 21,
+    "vendor": "temurin"
+  }
+}
