@@ -20,8 +20,8 @@
   "files": [
     {
       "id": "fabric-api",
-      "file": "fabric-api-0.97.0+1.20.6.jar",
-      "sha1": "b3d1e2f4a9d7...",
+      "file": "fabric-api-0.100.8+1.20.6.jar",
+      "sha1": "f8a4b3a551fc5bde9a2d3e4bcac9cb21a081c828",
       "size": 1892345,
       "required": true
     },
