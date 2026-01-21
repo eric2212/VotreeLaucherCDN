@@ -22,23 +22,32 @@
       "id": "fabric-api",
       "file": "fabric-api-0.100.8+1.20.6.jar",
       "sha1": "f8a4b3a551fc5bde9a2d3e4bcac9cb21a081c828",
-      "size": 1892345,
       "required": true
     },
 
     {
       "id": "lithium",
-      "file": "lithium-fabric-mc1.20.6-0.13.0.jar",
-      "sha1": "8c1fa2c9e7...",
+      "file": "lithium-fabric-mc1.20.6-0.12.5.jar",
+      "sha1": "3c6cc898906f0f8923d22850cc6d3d033e0c11ec",
       "required": true
     },
 
     {
-      "id": "dynamic-lights",
-      "file": "dynamiclights-1.20.6.jar",
-      "sha1": "aa31bc91...",
+      "id": "cloth-config",
+      "file": "cloth-config-14.0.139-fabric.jar",
+      "sha1": "6ed3c03b2269fee345f6c67eca876b78552272c3",
       "required": false,
       "default": false
+    },
+    {
+      "id": "sodium",
+      "file": "sodium-fabric-0.5.11+mc1.20.6.jar",
+      "sha1": "c989a844c33e04c3b7ef2f5747b4b20559b96e2f",
+      "required": false,
+      "default": false
+    },
+    {
+      
     }
   ]
 }
