@@ -1,0 +1,17 @@
+{
+  "schema": 1,
+  "name": "Your Launcher Distribution",
+  "timestamp": 1737420000,
+
+  "servers": [
+    {
+      "id": "survival",
+      "name": "Survival Fabric",
+      "meta": "servers/survival.json"
+    }
+  ],
+
+  "launcher": {
+    "update": "launcher/update.json"
+  }
+}
